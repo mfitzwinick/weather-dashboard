@@ -1,0 +1,16 @@
+#border {
+    height: 50 px;
+    background-color: blue;
+}
+
+;
+.container {
+    padding: 80 px;
+    margin-top: 50px;
+    margin-bottom: 50 px;
+    margin-left: 15 px;
+    margin-right: 15 px;
+    background-color: gray;
+}
+
+;
