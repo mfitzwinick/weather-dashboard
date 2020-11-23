@@ -3,14 +3,107 @@
     background-color: blue;
 }
 
-;
 .container {
     padding: 80 px;
     margin-top: 50px;
-    margin-bottom: 50 px;
+    margin-bottom: 40 px;
     margin-left: 15 px;
     margin-right: 15 px;
-    background-color: gray;
+    background-color:#D3D3D3;
+    height: 355 px;
+}
+h1 {
+    font-family: 'Ramabhadra', sans-serif;
 }
 
-;
+#titleDiv {
+text-align: center;
+
+}
+
+#searchDiv {
+background-color: yellowgreen;
+height: 600px;
+
+}
+#mycityInfo {
+    height: 250px;
+    background-color: white;
+    padding-right: 40 px; 
+
+}
+
+.fiveDay {
+    color: white;
+    text-emphasis: bold;
+    height: 295px;
+    padding-top: 50 px;
+    background-color: blue !important;
+    margin: 10px; 
+}
+.dateDiv {
+    font-weight: bold;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+#dayTwo {
+    float: left;
+}
+#searchBtn {
+   margin-left: 55px;
+}
+.icon {
+    text-align: right;
+}
+.savcity1 {
+    color:#696969;
+    background-color:	#E0FFFF;
+    border-style: solid;
+    border-color: #A9A9A9;
+}
+.savcity2 {
+    color:#696969;
+    background-color:	#E0FFFF;
+    border-style: solid;
+    border-color: #A9A9A9;
+}
+.savcity3 {
+    color:#696969;
+    background-color:	#E0FFFF;
+    border-style: solid;
+    border-color: #A9A9A9;
+}
+.savcity4 {
+    color:#696969;
+    background-color:	#E0FFFF;
+    border-style: solid;
+    border-color: #A9A9A9;
+}
+.savcity5 {
+    color:#696969;
+    background-color:	#E0FFFF;
+    border-style: solid;
+    border-color: #A9A9A9;
+}
+.savcity6 {
+    color:#696969;
+    background-color:	#E0FFFF;
+    border-style: solid;
+    border-color: #A9A9A9;
+}
+.description {
+    font-style: italic;
+}
+
+.low{
+    background-color: green;
+}
+.med{
+    background-color: yellow;
+}
+.high{
+    background-color:orange;
+}
+.veryhigh{
+    background-color:red;
+}
