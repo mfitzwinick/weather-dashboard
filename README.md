@@ -22,7 +22,6 @@ The site uses the following ajax calls from the open weather API:
 
 The site also pulls from the following third-party APIs:
 - JQuery
-- Bootstrap with Popper.js
 - Moment.js
 
 ## Features
