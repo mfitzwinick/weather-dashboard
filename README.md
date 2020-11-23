@@ -44,4 +44,5 @@ The site is built with  the following pages:
 -  style.css
 -  script.js
 
-
+## Screenshot
+<img width="1137" alt="Screen Shot 2020-11-23 at 2 23 03 PM 2" src="https://user-images.githubusercontent.com/72819785/100022194-98b14c80-2d97-11eb-9fd9-9d333f1d801d.png">
