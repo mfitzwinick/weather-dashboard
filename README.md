@@ -2,7 +2,7 @@
 
 ## Description/Purpose
 
-Weather Dashboard is a go-to resource for big city travelors. It is an invaluable tool for anyone needing to understand today's weather along with the five day forecast.  It easily stores the user's travel history for future use.
+Weather Dashboard is a go-to resource for big city travelers. It is an invaluable tool for anyone needing to understand today's weather along with the five day forecast.  It easily stores the user's travel history for future use.
 
 
 ## Technologies Used
