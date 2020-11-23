@@ -15,10 +15,10 @@ $(document).ready(function () {
   $("#dateDayFive").html(nextDay5)
   
   //set variable for weather icons//
-  var clear = "http://openweathermap.org/img/wn/01d@2x.png"
-  var clouds = "http://openweathermap.org/img/wn/02d@2x.png"
-  var rain = "http://openweathermap.org/img/wn/10d@2x.png"
-  var snow = "http://openweathermap.org/img/wn/13d@2x.png"
+  var clear = "https://openweathermap.org/img/wn/01d@2x.png"
+  var clouds = "https://openweathermap.org/img/wn/02d@2x.png"
+  var rain = "https://openweathermap.org/img/wn/10d@2x.png"
+  var snow = "https://openweathermap.org/img/wn/13d@2x.png"
 
   //pull city history from local storage//
   function getStorage() {
@@ -190,7 +190,7 @@ $(document).ready(function () {
    //ajax call for UV index// 
       var lat = response.city.coord.lat;
       var lon = response.city.coord.lon;
-      var uvUrl = "http://api.openweathermap.org/data/2.5/uvi?lat=" + lat + "&lon=" + lon + "&appid=0aee5e8e45d5880c3c161511ef0363e8"
+      var uvUrl = "https://api.openweathermap.org/data/2.5/uvi?lat=" + lat + "&lon=" + lon + "&appid=0aee5e8e45d5880c3c161511ef0363e8"
       $.ajax({
         url: uvUrl,
         method: "GET"
